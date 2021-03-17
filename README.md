@@ -9,7 +9,7 @@ The dataset consists of the tweet ids and the associated warning labels. There a
 - **ForwardPivotInt**: This field is set when the tweet had a warning label attached to it.
 - **InnerForwardPivotInt**: This field is set when the tweet quotes another tweet that had a warning label attached to it.
 
-![Examples of Soft Moderation Interventions](example.png "Examples of Soft Moderation Interventions")
+<img src="example.png" width=500>
 
 
 # Hydrating tweets
